@@ -1,0 +1,2 @@
+add_subdirectory(TexConverter)
+add_subdirectory(pugixml)

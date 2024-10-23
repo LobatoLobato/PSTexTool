@@ -1,0 +1,6 @@
+[submodule "TexConverter"]
+	path = src/hybrid/vendor/TexConverter
+	url = https://github.com/lobatolobato/TexConverter
+[submodule "pugixml"]
+	path = src/hybrid/vendor/pugixml
+	url = https://github.com/zeux/pugixml
